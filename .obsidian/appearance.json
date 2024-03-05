@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "nativeMenus": true,
-  "cssTheme": "Atom",
-  "baseFontSize": 19
+  "cssTheme": "Things",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "textFontFamily": "Andalus,Bodoni MT Poster,Brush Script MT"
 }

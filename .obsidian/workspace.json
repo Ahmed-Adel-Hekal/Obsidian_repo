@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b78874d733583d9f",
+        "id": "37106bcf1af0ae4f",
         "type": "tabs",
         "children": [
           {
-            "id": "16514883f34fcca1",
+            "id": "1c612f9cd37db16d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C language/String Tricks in c.md",
+                "file": "RTOS/Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C language/String Tricks in c.md",
+                "file": "RTOS/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C language/String Tricks in c.md",
+                "file": "RTOS/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C language/String Tricks in c.md"
+                "file": "RTOS/Queue.md"
               }
             }
           },
@@ -158,40 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16514883f34fcca1",
+  "active": "1c612f9cd37db16d",
   "lastOpenFiles": [
-    "Microcontroller/LCD.md",
-    "C language/Pointer & ARRAY.md",
-    "C language/Struct.md",
-    "C language/Command line args.md",
-    "C language/C Build Process.md",
-    "C language/Basics.md",
-    "assets/Full Instruction cycle.md",
-    "Microcontroller/Ramp ADC.md",
+    "RTOS/Event Group.md",
+    "RTOS/Scheduling ALgorithms.md",
+    "RTOS/memMang.md",
+    "RTOS/00-RTOS Basics.md",
+    "img/Kerenl-in-rtos.jpg",
+    "img/Kerenl-in-rtos.jpg.opdownload",
+    "RTOS/Software Timers.md",
+    "RTOS/Semaphor.md",
+    "RTOS/Task Notification.md",
     "Microcontroller/ADC.md",
-    "Microcontroller/Interrupt.md",
-    "Amit sessions/Interface Sessions/Lecture 3.md",
-    "Amit sessions/Interface Sessions/Lecture 2.md",
-    "Amit sessions/Interface Sessions/Lecture 1.md",
-    "Amit sessions/C Sessions/Untitled.md",
-    "C language/Type Cast Tricks.md",
-    "C language/Preprocessor Directive.md",
-    "C language/String Tricks in c.md",
-    "c++/c++.md",
-    "Microcontroller/Sampling.md",
-    "Microcontroller/Transducer.md",
-    "Microcontroller/SAR ADC.md",
+    "Microcontroller/External Interrupt.md",
+    "Microcontroller/Encoding.md",
     "Microcontroller/Flash ADC.md",
-    "Untitled.canvas",
+    "Microcontroller/Interrupt.md",
+    "Microcontroller/Keypad.md",
+    "C language/Pointer & ARRAY.md",
+    "Amit sessions/Interface Sessions/Lecture 3.md",
+    "img/led2.PNG",
+    "Amit sessions/Interface Sessions/Lecture 2.md",
+    "C language/Basics.md",
+    "c++/c++.md",
+    "DataSheets/LCD.pdf",
+    "Microcontroller/SAR ADC.md",
     "Intro to Embeded linux.md",
     "[Computer Organization.md",
+    "Amit sessions/Interface Sessions/Lecture 1.md",
+    "assets/Full Instruction cycle.md",
+    "Microcontroller/Ramp ADC.md",
+    "Untitled 1.canvas",
+    "RTOS/Queue.md",
+    "RTOS",
+    "C language/String Tricks in c.md",
+    "Untitled.canvas",
     "img/memory&processor2.PNG",
     "img/memory&processor.PNG",
-    "Microcontroller/Keypad.md",
-    "Microcontroller/Encoding.md",
     "Embeded linux",
     "c++",
-    "img/led2.PNG",
     "img/~~$Electric_switch.pdf",
     "img/led.PNG",
     "img/decode.png",
@@ -202,10 +208,6 @@
     "img/fetch3.png.crdownload",
     "img/fetch2.png",
     "img/fetch2.png.crdownload",
-    "img/fetch1.png",
-    "img/fetch1.png.crdownload",
-    "img/fetch0.png",
-    "img/fetch0.png.crdownload",
-    "img/instruction_cycle_flow_chart.png.crdownload"
+    "img/fetch1.png"
   ]
 }
